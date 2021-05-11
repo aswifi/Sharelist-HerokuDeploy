@@ -1,9 +1,9 @@
   
 {
-  "name": "sharelist",
+  "name": "Sharelist",
   "description": "sharelist",
   "repository": "https://github.com/aswifi/sharelist",
-  "keywords": ["sharelist","Heroku"],
+  "keywords": ["Sharelist","Heroku"],
   "stack": "heroku-20",
   "success_url": "/"
 }
