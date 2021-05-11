@@ -4,5 +4,6 @@
   "description": "sharelist",
   "repository": "https://github.com/aswifi/sharelist",
   "keywords": ["sharelist","Heroku"],
+  "stack": "heroku-20",
   "success_url": "/"
 }
